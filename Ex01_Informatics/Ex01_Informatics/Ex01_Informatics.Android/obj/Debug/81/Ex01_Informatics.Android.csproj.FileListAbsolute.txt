@@ -102,6 +102,4 @@ D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Info
 D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\bin\Debug\netstandard2.0\Ex01_Informatics.dll
-D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics.Android\bin\Debug\Ex01_Informatics.dll.mdb
 D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics.Android\obj\Debug\81\linksrc\Ex01_Informatics.dll.mdb

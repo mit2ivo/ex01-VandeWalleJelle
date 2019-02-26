@@ -21,6 +21,20 @@ namespace Ex01_Informatics.Model
                 return base.ToString();
         }
 
+        public static List<Quote> GetQuotesFiltered(bool anon)
+        {
+            List<Quote> q2 = new List<Quote>();
+            foreach (var item in GetQuotes())
+            {
+                if(anon)
+                {
+                    if (item.Author.Length == 0)
+                        q2.Add(item);
+                }
+            }
+            return q2;
+        }
+
         public static List<Quote> GetQuotes()
         {
             return new List<Quote>()

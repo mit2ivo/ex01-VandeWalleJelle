@@ -19,7 +19,7 @@
             </Grid>
             <Label x:Name="lblContent" TextColor="Black" Text="(your quote content goes here)" Grid.Row="1" FontAttributes="Bold" FontSize="Large" Margin="30,30,30,0" />
             <Label x:Name="lblAuthor" TextColor="Black" Text="(no author)" Margin="30,0,0,0" Grid.Row="2" FontAttributes="Bold" />
-            <Button x:Name="btnRandom" Text="Show random quote" Grid.Row="3" />
+            <Button x:Name="btnRandom" Clicked="BtnRandom_Clicked"  Text="Show random quote" Grid.Row="3" />
         </Grid>
     </StackLayout>
 
