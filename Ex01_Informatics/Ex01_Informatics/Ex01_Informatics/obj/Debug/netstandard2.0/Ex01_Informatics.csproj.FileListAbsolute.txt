@@ -1,0 +1,12 @@
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\bin\Debug\netstandard2.0\Ex01_Informatics.deps.json
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\bin\Debug\netstandard2.0\Ex01_Informatics.dll
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\bin\Debug\netstandard2.0\Ex01_Informatics.pdb
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\Ex01_Informatics.csprojAssemblyReference.cache
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\Ex01_Informatics.csproj.CoreCompileInputs.cache
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\Ex01_Informatics.AssemblyInfoInputs.cache
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\Ex01_Informatics.AssemblyInfo.cs
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\Ex01_Informatics.dll
+D:\Sandbox\MOBI\ex01-VandeWalleJelle\Ex01_Informatics\Ex01_Informatics\Ex01_Informatics\obj\Debug\netstandard2.0\Ex01_Informatics.pdb

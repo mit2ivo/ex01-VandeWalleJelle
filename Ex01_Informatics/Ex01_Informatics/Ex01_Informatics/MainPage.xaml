@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Ex01_Informatics"
+             x:Class="Ex01_Informatics.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <Grid>
+                <Image x:Name="imgSubject" Aspect="AspectFill" Source="http://clients.swcg-inc.net/portals/0/Images/SWCG/Programming.jpg" />
+                <Label x:Name="lblSubject" Text="(subject)" Margin="20" TextColor="White" VerticalOptions="Start" HorizontalOptions="End" HorizontalTextAlignment="End" />
+            </Grid>
+            <Label x:Name="lblContent" TextColor="Black" Text="(your quote content goes here)" Grid.Row="1" FontAttributes="Bold" FontSize="Large" Margin="30,30,30,0" />
+            <Label x:Name="lblAuthor" TextColor="Black" Text="(no author)" Margin="30,0,0,0" Grid.Row="2" FontAttributes="Bold" />
+            <Button x:Name="btnRandom" Text="Show random quote" Grid.Row="3" />
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
